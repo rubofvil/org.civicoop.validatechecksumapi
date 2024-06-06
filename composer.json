@@ -1,0 +1,5 @@
+{
+  "name": "civicrm/validatechecksumapi",
+  "type": "civicrm-extension",
+  "description": "Validatechecksumapi"
+}
